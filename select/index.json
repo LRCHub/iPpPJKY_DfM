@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Anxious Love",
+  "base_artist": "999dobby",
+  "createdAt": "2025-12-22T08:14:20.154001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anxious Love",
+      "artist": "999dobby",
+      "has_synced": false,
+      "path": "select/01_Anxious_Love_999dobby.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anxious Love",
+      "artist": "999dobby",
+      "has_synced": false,
+      "path": "select/pl_01_Anxious_Love_999dobby.txt"
+    }
+  ]
+}
